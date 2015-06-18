@@ -1,5 +1,5 @@
 <?php
-	$host = "your host";
+	$host = "your machine host";
 	$user = "username";
 	$pass = "password";
 	$db = "database";
